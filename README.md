@@ -2,7 +2,7 @@
   Mentalista
 </h1>
 
-![Document - Google Chrome 11_08_2022 11_49_55](https://user-images.githubusercontent.com/93893533/184162462-8c6da345-6024-4183-b568-50852ac6e8b3.png)
+![Mentalista - Google Chrome 12_08_2022 16_08_53](https://user-images.githubusercontent.com/93893533/184433131-1b38ad76-1587-4f7f-9610-7054e69c859a.png)
 
 
 <br />
@@ -11,7 +11,7 @@
 
 Projeto de um mini-jogo em PHP, em que o jogador tem qua adivinhar um número de 0 a 10, tendo apenas 3 tentativas.
 
- <h3 align="center"><a target="_blank" href="https://php-currency-convertor.herokuapp.com/">Veja o jogo funcionando 👀</a></h3>
+ <h3 align="center"><a target="_blank" href="https://mentalist-php.herokuapp.com/">Veja o jogo funcionando 👀</a></h3>
 
 <hr>
 <br>
