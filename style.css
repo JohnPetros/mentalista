@@ -1,0 +1,211 @@
+:root {
+    --primary-color: #8B008B;
+    --secondary-color: #DA70D6;
+    --text-title: #DFDFF7;
+    --text: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Smooch Sans', sans-serif;
+    color: var(--text-title);
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    background: url(img/bg.gif);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.container-game {
+    background-color: var(--primary-color);
+    border: 3px solid var(--secondary-color);
+
+    width: 30%;
+    height: 300px;
+
+    position: absolute;
+    top: 40%;
+    left: 10%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+    font-size: 1.8rem;
+}
+
+.game-input {
+    width: 40%;
+    height: 35px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: var(--text);
+    border: solid 3px var(--text);
+    border-radius: 10px;
+    outline: none;
+}
+
+.game-button {
+    width: 35%;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0 var(--text);
+    font-size: 1.5rem;
+    color: var(--text);
+    transition: transform .2s ease-in-out;
+}
+
+.game-button:hover, .endGameQuestion button:hover {
+    transform: scale(1.1);
+}
+
+.ballon-quote-1 {
+    min-width: 200px;
+    min-height: 100px;
+    background-color: var(--text-title);
+    border: 5px solid var(--secondary-color);
+    color: var(--text);
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    position: absolute;
+    top: 2%;
+    left: 32%;
+}
+
+.ballon-quote-1::after {
+    content: "";
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg) translate(58%, 30%);
+    background-color: var(--text-title);
+    border-right: 6px solid var(--secondary-color);
+    border-bottom: 6px solid var(--secondary-color);
+    z-index: 0;
+}
+
+.ballon-quote-2 {
+    min-width: 220px;
+    height: 100px;
+    background-color: var(--text-title);
+    border: 5px solid var(--secondary-color);
+    color: var(--text);
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    position: absolute;
+    top: 75%;
+    left: 50%;
+}
+
+.ballon-quote-2::before {
+    content: "";
+    position:absolute;
+    bottom: 60%;
+    left: 4%;
+    width: 30px;
+    height: 30px;
+    transform: rotate(225deg) translate(58%, 30%);
+    background-color: var(--text-title);
+    border-right: 6px solid var(--secondary-color);
+    border-bottom: 6px solid var(--secondary-color);
+}
+
+.endGameQuestion  {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.endGameQuestion p {
+    color: var(--text);
+}
+
+.endGameQuestion button {
+    background-color: var(--primary-color);
+    color: var(--text-title);
+    font-size: 1.3rem;
+    width: 40%;
+    transition: transform .2s ease-in-out;
+}
+
+@media (max-width: 950px) {
+    .container-game {
+        font-size: 1.2rem;
+    }
+    .game-button {
+        font-size: 1rem;
+    }
+    .ballon-quote-1 {
+        top: 10%;
+        left: 25%;
+    }
+}
+
+@media (max-width: 665px) {
+    .container-game {
+        font-size: 1.1rem;
+        top: 45%;
+        padding: 5px;
+    }
+    .container-game p {
+        font-size: 1.2rem;
+       
+    }
+    .game-button {
+        font-size: 1rem;
+        width: 80%;
+    }
+    .game-input {
+        font-size: 1.2rem;
+        width: 80%;
+    }
+    .ballon-quote-1 {
+        top: 10%;
+        left: 15%;
+    }
+    .ballon-quote-2 {
+        font-size: 1.3rem;
+        width: 220px;
+      
+    }
+}
+
+@media (max-width: 430px) {
+    .container-game {
+        font-size: .8em;
+        width: 40%;
+        top: 40%;
+        left: 2%;
+        padding: 15px;
+    }
+    .container-game p {
+        font-size: 1.2rem;
+    }
+    .ballon-quote-2 {
+        font-size: 1.3rem;
+        top: 65%;
+        width: 145px;
+    }
+}
