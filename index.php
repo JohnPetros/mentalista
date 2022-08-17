@@ -78,8 +78,6 @@ if (isset($_POST["number"])) {
         <input type="number" name="restAttempts" hidden value="<?php echo $attempts ?>">
         <input type="number" name="randomNumber" hidden value="<?php echo $randomNumber ?>">
         <!--  -->
-        <input type="number" name="end" hidden value="<?php echo $randomNumber ?>">
-
     </form>
 
     <div class="ballon-quote-2">
@@ -90,7 +88,7 @@ if (isset($_POST["number"])) {
             echo "<p>Quer Jogar Denovo?</p>";
             echo "<button name='endGameAnswer' form='form-endgame' value='yes'>Sim</button>";
             echo "</form>";
-            // Resposta do Mentalista
+            // Resposta do Alien
         } else {
             echo $answer;
         }
