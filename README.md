@@ -11,7 +11,7 @@
 
 Projeto de um mini-jogo em PHP, em que o jogador tem qua adivinhar um número de 0 a 10, tendo apenas 3 tentativas.
 
- <h3 align="center"><a target="_blank" href="https://mentalist-php.herokuapp.com/">Veja o jogo funcionando 👀</a></h3>
+ <h3 align="center"><a target="_blank" href="https://mentalista.johnpetros.repl.co/">Veja o jogo funcionando 👀</a></h3>
 
 <hr>
 <br>
