@@ -18,6 +18,8 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/brazil-national-team-2022?style=social">
 </div>
 
+<br>
+
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
