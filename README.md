@@ -6,16 +6,16 @@
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/brazil-national-team-2022">
-   <a href="https://github.com/JohnPetros/brazil-national-team-2022/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/brazil-national-team-2022">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/mentalista">
+   <a href="https://github.com/JohnPetros/mentalista/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/mentalista">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/brazil-national-team-2022/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/brazil-national-team-2022">
+   <a href="https://github.com/JohnPetros/mentalista/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/mentalista">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/brazil-national-team-2022?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/mentalista?style=social">
 </div>
 
 <br>
