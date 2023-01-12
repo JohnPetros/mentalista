@@ -37,11 +37,11 @@ Projeto de um mini-jogo em PHP, em que o jogador tem qua adivinhar um número de
 
 
 ## ✨ Funcionalidades
-- Usuário só pode adivinhar um número de 0 a 10
-- Usuário só possui 3 tentatativas de acertar o número
-- Usuário deve receber feedback dos personagens a cada ação dentro do jogo
-- Usuário pode repetir o jogo caso deseje
-- Layout responsivo
+- [x] Usuário só pode adivinhar um número de 0 a 10
+- [x] Usuário só possui 3 tentatativas de acertar o número
+- [x] Usuário deve receber feedback dos personagens a cada ação dentro do jogo
+- [x] Usuário pode repetir o jogo caso deseje
+- [x] Layout responsivo
 
 ## 📖 Aprendizado
 - Envio e retorno de dados em PHP
