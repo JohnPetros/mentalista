@@ -1,5 +1,5 @@
 <h1 align="center">
-  Mentalista
+  Mentalista 🔮
 </h1>
 
 <div align="center">
@@ -56,6 +56,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 ✔️ **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 ✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+
+---
+
+## ⚙️ Deploy
+
+O deploy desse projeto foi realizado através do **[Railway](https://www.infinityfree.net/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/super-trunfo-clash-royale/)**
 
 ## 📝 Licenca
 
