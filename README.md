@@ -29,6 +29,8 @@
   <a href="#-licenca">Licenca</a>
 </p>
 
+<br>
+
 ## 💻 Projeto
 
 Projeto de um mini-jogo em PHP, em que o jogador tem qua adivinhar um número de 0 a 10, tendo apenas 3 tentativas. O mentalista (alien) e seu gato dão feedback para cada resposta do usuário, dizendo se ele acertou ou errou, como também fornecem dicas para que o usuário acerte, dizendo se o número escolhido pelo jogador é maior ou menor que o número pensado pelo mentalista.
