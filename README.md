@@ -59,6 +59,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 
 ✔️ **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
+✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HML)**
+
 ---
 
 ## ⚙️ Deploy
